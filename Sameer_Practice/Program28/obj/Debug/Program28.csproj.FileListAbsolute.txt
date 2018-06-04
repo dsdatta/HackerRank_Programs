@@ -1,0 +1,6 @@
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program28\bin\Debug\Program28.exe.config
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program28\bin\Debug\Program28.exe
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program28\bin\Debug\Program28.pdb
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program28\obj\Debug\Program28.csprojResolveAssemblyReference.cache
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program28\obj\Debug\Program28.exe
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program28\obj\Debug\Program28.pdb

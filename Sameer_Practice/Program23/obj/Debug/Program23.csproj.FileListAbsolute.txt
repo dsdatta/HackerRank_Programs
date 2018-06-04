@@ -1,0 +1,5 @@
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program23\bin\Debug\Program23.exe.config
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program23\bin\Debug\Program23.exe
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program23\bin\Debug\Program23.pdb
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program23\obj\Debug\Program23.exe
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program23\obj\Debug\Program23.pdb

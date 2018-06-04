@@ -1,0 +1,6 @@
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program24\bin\Debug\Program24.exe.config
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program24\bin\Debug\Program24.exe
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program24\bin\Debug\Program24.pdb
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program24\obj\Debug\Program24.csprojResolveAssemblyReference.cache
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program24\obj\Debug\Program24.exe
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program24\obj\Debug\Program24.pdb

@@ -1,0 +1,6 @@
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Project21\bin\Debug\Project21.exe.config
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Project21\bin\Debug\Project21.exe
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Project21\bin\Debug\Project21.pdb
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Project21\obj\Debug\Project21.exe
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Project21\obj\Debug\Project21.pdb
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Project21\obj\Debug\Program21.csprojResolveAssemblyReference.cache

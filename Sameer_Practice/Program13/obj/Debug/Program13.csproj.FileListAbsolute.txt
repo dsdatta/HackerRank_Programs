@@ -1,0 +1,6 @@
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program13\bin\Debug\Program13.exe.config
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program13\bin\Debug\Program13.exe
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program13\bin\Debug\Program13.pdb
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program13\obj\Debug\Program13.csprojResolveAssemblyReference.cache
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program13\obj\Debug\Program13.exe
+C:\Users\sdatta\Documents\Visual Studio 2015\Projects\Sameer_Practice\Program13\obj\Debug\Program13.pdb

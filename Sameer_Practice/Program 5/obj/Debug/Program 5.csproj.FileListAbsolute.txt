@@ -1,0 +1,6 @@
+C:\Users\sdatta\documents\visual studio 2015\Projects\Sameer_Practice\Program 5\bin\Debug\Program 5.exe.config
+C:\Users\sdatta\documents\visual studio 2015\Projects\Sameer_Practice\Program 5\bin\Debug\Program 5.exe
+C:\Users\sdatta\documents\visual studio 2015\Projects\Sameer_Practice\Program 5\bin\Debug\Program 5.pdb
+C:\Users\sdatta\documents\visual studio 2015\Projects\Sameer_Practice\Program 5\obj\Debug\Program 5.csprojResolveAssemblyReference.cache
+C:\Users\sdatta\documents\visual studio 2015\Projects\Sameer_Practice\Program 5\obj\Debug\Program 5.exe
+C:\Users\sdatta\documents\visual studio 2015\Projects\Sameer_Practice\Program 5\obj\Debug\Program 5.pdb
